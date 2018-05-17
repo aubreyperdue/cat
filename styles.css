@@ -1,0 +1,45 @@
+body {
+  /*Replace the green website address with the background of your choice. DO NOT take out the url("") only replace the website address*/
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUBv4_dOR828jLAZM7Sspgm3bV_lfrJ2bELTM_cZJhNKNBOIl3Dw:https://pbs.twimg.com/profile_images/875624659357581314/FCZGd6pr.jpg")
+}
+
+h1{
+  /*This section changes your heading*/
+  font-size: 48px;
+  text-align: center;
+  font-family: Arial;
+  margin-top: 40px;
+  margin-bottom: 30px;   
+}
+
+#quoteDisplay{
+  /*This section changes where the quote will be displayed.*/
+  font-size: 30px;
+  font-family: Arial;
+  border: 5px solid black;
+  background-color: lightgrey;
+  margin-top:50px;
+  margin-bottom:50px;
+  border-radius:15px;
+  padding:25px;
+  text-align:center;
+}
+
+button{
+  /*This changes the button's style*/
+  background-color: black;
+  color:white;
+  padding:15px, 32px;
+  text-align:center;
+  display:inline-block;
+  font-size:30px;
+  margin-left:300px;
+  border-radius:10px;
+}
+
+p {
+  /*This will change the bottom portion.*/
+  font-size:24px;
+  text-align:center;
+  margin-top:50px;
+}
